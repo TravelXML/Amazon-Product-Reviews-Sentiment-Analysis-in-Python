@@ -1,4 +1,4 @@
-# Amazon Product Reviews Sentiment Analysis in Python
+# NLP: Amazon Product Reviews Sentiment Analysis in Python
 ![Amazon Reviews](https://github.com/user-attachments/assets/ac6a483a-3aca-464c-98a0-61cddcc0854f)
 
 
