@@ -1,6 +1,6 @@
 # Amazon Product Reviews Sentiment Analysis in Python
+![Amazon Reviews](https://github.com/user-attachments/assets/ac6a483a-3aca-464c-98a0-61cddcc0854f)
 
-![Amazon Reviews](https://github.com/TravelXML/Amazon-Product-Reviews-Sentiment-Analysis-in-Python/blob/master/amazon.jpg)
 
 Unlock the insights hidden in Amazon product reviews with this comprehensive sentiment analysis project. By leveraging machine learning and natural language processing (NLP), this project aims to classify reviews as positive or negative, providing valuable insights into customer sentiments.
 
@@ -50,11 +50,13 @@ pip install -r requirements.txt
 
 ### Word Cloud
 Visualize the most frequent words in positive and negative reviews:
-![Word Cloud](output/wordcloud.png)
+![Word Cloud](https://github.com/user-attachments/assets/7ef70f56-e4e5-496c-ba30-9bfdb613eccd)
+
 
 ### Confusion Matrix
 Evaluate model performance with a confusion matrix:
-![Confusion Matrix](output/confusion_matrix.png)
+![Confusion Matrix](https://github.com/user-attachments/assets/a6f652c5-ccbf-4b36-9726-93ec1a4f1375)
+
 
 ## 🤝 Contributing
 
