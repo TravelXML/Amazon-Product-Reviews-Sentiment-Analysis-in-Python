@@ -18,7 +18,6 @@ This repository provides a step-by-step guide to performing sentiment analysis o
 
 - **`az_senti_analysis.ipynb`**: The Jupyter Notebook that contains the full workflow, from data preprocessing to model evaluation.
 - **`data/`**: Directory to store the Amazon review dataset.
-- **`output/`**: Output folder for storing visualizations like word clouds and confusion matrices.
 - **`requirements.txt`**: List of Python libraries required to run the project.
 
 ## 🛠️ Installation
