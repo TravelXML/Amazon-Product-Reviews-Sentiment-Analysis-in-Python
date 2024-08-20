@@ -55,7 +55,8 @@ Visualize the most frequent words in positive and negative reviews:
 
 ### Confusion Matrix
 Evaluate model performance with a confusion matrix:
-![Confusion Matrix](https://github.com/user-attachments/assets/a6f652c5-ccbf-4b36-9726-93ec1a4f1375)
+![Confusion Matrix](https://github.com/user-attachments/assets/33e86db9-434c-4af5-b87d-2a2fffb218be)
+
 
 
 ## 🤝 Contributing
