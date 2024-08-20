@@ -62,9 +62,6 @@ Evaluate model performance with a confusion matrix:
 
 Contributions are welcome! Whether it's fixing bugs, improving the documentation, or adding new features, feel free to open a pull request or submit an issue.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
